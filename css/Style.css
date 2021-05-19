@@ -1,0 +1,114 @@
+.carousel-item{
+    height: 91vh;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+/*
+li{
+    display: inline-block;
+}*/
+
+#mid{
+    text-align: center;
+}
+
+table{
+    text-align: center;
+}
+
+thead{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 38px;
+}
+
+tbody{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.tabela{
+    text-align: center;
+    margin: auto;
+    width: 90%;
+    padding: 10px;
+    text-shadow: 3px 1px white;
+    background-color: #ffc107;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.footer{
+    background-color: #333;
+    text-align: left;
+    padding: 10%;
+    color: white;
+    list-style-type: none;
+}
+
+.footer h3 {
+    font-size: 16px;
+    text-transform: uppercase;
+    margin-top: 5px;
+    letter-spacing: 2px;
+}
+
+.footer h6 {
+    font-size: 16px;
+    text-transform: uppercase;
+    margin-top: 5px;
+    letter-spacing: 2px;
+}
+
+.footer img{
+    float: right;
+}
+
+.final{
+    display: table;
+}
+
+.final2{
+    display: table-cell;
+    float: left;
+}
+
+.finalimg{
+    display: table-cell;
+}
+
+.unip {
+    color:gold;
+}
+
+.dropdown a:hover{
+    background-color: rgb(039, 105, 183);
+    color: white;
+}
+
+dropdown-item a:hover{
+    background-color: rgb(039, 105, 183);
+    color: white;
+}
+
+.navbar-nav a:hover{
+    background-color: rgb(039, 105, 183);
+    border-radius: 6px;
+}
+
+#navbarNavAltMarkup a:hover{
+    color: white;
+}
+
+.carousel-caption{
+    color: #ffc107;
+    text-shadow: 3px 1px black;
+    background-color: rgba(5, 13, 24, 0.8);
+    border-radius: 20px;
+    /*text-shadow: 3px 1px black;*/
+}
