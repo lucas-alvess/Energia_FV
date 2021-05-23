@@ -2,7 +2,7 @@
     height: 91vh;
 }
 
-img{
+.img-fluid , .card-img-top{
     display: block;
     margin-left: auto;
     margin-right: auto;
