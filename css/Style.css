@@ -12,10 +12,10 @@ html{
     margin-right: auto;
     width: 100%;
 }
-/*
-li{
-    display: inline-block;
-}*/
+
+.navbar-brand {
+    font-family: sans-serif;
+}
 
 #mid{
     text-align: center;
