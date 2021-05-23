@@ -13,6 +13,13 @@ body{
     font-family: sans-serif;
 }
 
+main{
+    max-width: 800px;
+    width: 95%;
+    margin: auto;
+    padding: 0;
+}
+
 h1{
     text-align: center;
     margin-top: 40px;
@@ -27,3 +34,18 @@ h2{
     text-shadow: 3px 1px #ffc107;
 }
 
+.apresentacao{
+    font-size: 25px;
+    text-align: left;
+    text-shadow: 1px 1px black;
+
+}
+
+.paragrafo{
+    font-size: 20px;
+    text-align: justify;
+}
+
+.figcap{
+    color:cadetblue;
+}
