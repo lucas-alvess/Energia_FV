@@ -43,6 +43,18 @@ tbody{
     margin-bottom: 20px;
 }
 
+a.links:link{
+    text-decoration: none;
+}
+
+.links{
+    color: #ffc107;
+}
+
+.links:hover{
+    color: white;
+}
+
 .footer{
     background-color: #333;
     text-align: left;
