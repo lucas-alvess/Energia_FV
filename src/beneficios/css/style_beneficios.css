@@ -1,5 +1,5 @@
 .corpo{
-    max-width: 800px;
+    max-width: 1200px;
     width: 95%;
     margin: auto;
     padding: 0;
@@ -26,3 +26,4 @@ h2{
     margin-bottom: 20px;
     text-shadow: 3px 1px #ffc107;
 }
+
