@@ -1,0 +1,40 @@
+.corpo{
+    max-width: 800px;
+    width: 95%;
+    margin: auto;
+    padding: 0;
+    display: block;
+        margin-left: auto;
+        margin-right: auto;
+}
+
+body{
+    text-align: justify;
+    margin: auto;
+    padding: 0;
+    line-height: 1.5;
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    text-shadow: 3px 1px #ffc107;
+}
+h2{
+    text-align: justify;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    text-shadow: 3px 1px #ffc107;
+}
+
+.unip,.ref {
+    color:gold;
+}
+.img{
+   text-align: center;
+}
+p{
+    text-align: justify;
+}
