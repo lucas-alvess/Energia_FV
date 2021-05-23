@@ -52,13 +52,21 @@ h2{
     
 }
 
-h6{
-    text-align: center;
-    
-}
-
 .grafico {
    text-align: center;
    max-width: 1200px;
    width: auto;
+}
+
+h5 {
+    text-align: center;
+}
+
+hr {
+    display: block;
+    border: 1px solid black;
+}
+
+ul {
+    margin-left: 6px;
 }

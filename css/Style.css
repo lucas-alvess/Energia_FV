@@ -46,9 +46,9 @@ tbody{
 .footer{
     background-color: #333;
     text-align: left;
-    padding: 10%;
     color: white;
     list-style-type: none;
+    padding: 50px;
 }
 
 .footer h3 {
