@@ -32,9 +32,17 @@ h2{
 .unip,.ref {
     color:gold;
 }
+
 .img{
    text-align: center;
 }
+
 p{
     text-align: justify;
+}
+
+.caption{
+    color:cadetblue;
+    font-size: 10px;
+    text-align: left;
 }

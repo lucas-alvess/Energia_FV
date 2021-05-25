@@ -46,6 +46,12 @@ h2{
     text-align: justify;
 }
 
-.figcap{
+.caption{
     color:cadetblue;
+    font-size: 10px;
+    text-align: left;
+}
+
+.imagem{
+    border-radius: 8px;
 }
