@@ -21,32 +21,6 @@ html{
     text-align: center;
 }
 
-table{
-    text-align: center;
-}
-
-thead{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 38px;
-}
-
-tbody{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 18px;
-}
-
-.tabela{
-    text-align: center;
-    margin: auto;
-    width: 90%;
-    padding: 10px;
-    text-shadow: 3px 1px white;
-    background-color: #ffc107;
-    border-radius: 20px;
-    margin-top: 20px;
-    margin-bottom: 20px;
-}
-
 a.links:link{
     text-decoration: none;
 }
@@ -159,4 +133,29 @@ dropdown-item a:hover{
 
 a.bts:link{
     text-decoration: none;
+}
+
+.tabela_home{
+    display: table;
+    text-align: center;
+    margin: auto;
+    width: 90%;
+    padding: 10px;
+    text-shadow: 3px 1px white;
+    background-color: #ffc107;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 38px;
+    
+
+}
+
+.conteudo_home{
+    display: table-cell;
+    float: left;
+    margin-right: 6%;
+    margin-left: 8%;
+    text-align: center;
+
 }
