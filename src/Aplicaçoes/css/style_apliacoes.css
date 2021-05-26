@@ -1,0 +1,63 @@
+.corpo{
+    max-width: 800px;
+    width: 95%;
+    margin: auto;
+    padding: 0;
+}
+
+body{
+    text-align: justify;
+    margin: auto;
+    padding: 0;
+    line-height: 1.5;
+    font-family: sans-serif;
+}
+
+h1,h2{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    text-shadow: 3px 1px #ffc107;
+}
+
+h5{
+    font-size: 16px;
+}
+
+.exemplos{
+    display: table;
+}
+
+.fotos{
+    display: table-cell;
+    text-align: center;
+    float: left;
+}
+
+.imgagem{
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+
+figcaption{
+    font-size: 12px;
+}
+
+.programa img{
+    max-width: 100%;
+    height: auto;
+    margin: 0;
+    
+}
+
+.programa{
+    text-align: center;
+}
+
+
+
+.caption{
+   
+    text-align: center;
+}
